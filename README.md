@@ -247,4 +247,4 @@ This repository serves as the official landing page for YouTube Music Desktop. T
 **Get the most recent version of YouTube Music Desktop today!**
 
 ---
-**Last updated:** 2026-10-03 12:20:37 UTC
+**Last updated:** 2026-10-03 17:05:43 UTC
